@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- ======Header============================= -->
-![header img here](../images/header.png)
+![header img here](./images/header.png)
