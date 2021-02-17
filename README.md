@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
----------------------
 <h3>🧑‍💻 How I Became a Developer</h3>
 
 ---------------------
