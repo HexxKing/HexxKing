@@ -5,18 +5,8 @@
 Here are some ideas to get you started:
 
 - name/ job title / personal titles
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-  - contact info
-  - linkedIn, twitter, dev.to, ect...
-- 😄 Pronouns: ...
-- What Im working on
-- Events Im attending
-- my fav spotify playlist right now
 - ⚡ Fun fact: ...
 
 -->
@@ -36,10 +26,36 @@ Here are some ideas to get you started:
 
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
+---------------------
+<h3>🧑‍💻 How I Became a Developer</h3>
 
+---------------------
+<h3>🐍 My Developer Identity</h3>
+<!-- technologies and tools, stuff from slides, fav organizations -->
+
+---------------------
+<h3>✍️ What I'm Working On</h3>
+
+---------------------
+<h3>💡 What I'm Learning</h3>
+
+---------------------
+<h3>🎟️ Events I'm Attending</h3>
+
+---------------------
+<h3>📻 My Favorite Coding Playlist</h3>
+
+<!-- --------------------- -->
+<!-- <h3>👭 What I'm Contributing To</h3> -->
+
+---------------------
+<h3>👽 Fun Facts</h3>
+
+---------------------
 <!-- ======FOOTER============================= -->
 <footer>
-Resources:
+<h3>📚 Resources:</h3>
 
 - Social media favicons from <a href="https://icons8.com">Icons8</a>
+- <a href="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7">Build a Stunning README For Your GitHub Profile</a>
 </footer>
