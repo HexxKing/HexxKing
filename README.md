@@ -31,7 +31,17 @@ Here are some ideas to get you started:
 
 ---------------------
 <h3>🐍 My Developer Identity</h3>
-<!-- technologies and tools, stuff from slides, fav organizations -->
+
+  - 🛠️ Technologies and Tools
+  
+  - 💎 Non-Traditional Background
+
+  - 🌟 Professional Competencies
+
+  - 🌈 Why I Want to Work in Tech
+
+  - 👭 My Favorite Organizations
+<!-- technologies and tools, stuff from slides, fav organizations, quote from RBG -->
 
 ---------------------
 <h3>✍️ What I'm Working On</h3>
@@ -43,7 +53,7 @@ Here are some ideas to get you started:
 <h3>🎟️ Events I'm Attending</h3>
 
 ---------------------
-<h3>📻 My Favorite Coding Playlist</h3>
+<h3>📻 My Favorite Coding Playlists</h3>
 
 <!-- --------------------- -->
 <!-- <h3>👭 What I'm Contributing To</h3> -->
