@@ -28,6 +28,15 @@ Here are some ideas to get you started:
 
 <h3>🧑‍💻 How I Became a Developer</h3>
 
+My story really began when my closest friend convinced me that I have the grit needed to make it through an accelerated software development program. It was March 2020, and I had just successfully led my team of specialists and artists to our most successful sales year, in 15 years. Then COVID-19 came and put my professional life on hold and gave me a moment to reevaluate my career choice. 
+
+I knew that my current position required me to perform lots of jobs outside the traditional "manager" role and that I was able to teach myself any new skills I needed. I took my professional education into my own hands and in return, delivered this knowledge to my employees in an effort to lift the whole team up. 
+
+So if I can do all that while running a studio, why can't I apply this same technique to learning software development? Starting in April 2020, that's exactly what I did. I signed up for classes with Code Fellows and wrote my very first line of code. 
+
+I knew becoming a software developer would mean that I can safely work from home and that is really what made this choice so easy. Because COVID-19 is so deadly, I want to do my best to help save as many lives as we can and working from home is a great way to avoid infection and instigating mutations. 
+ 
+
 ---------------------
 <h3>🐍 My Developer Identity</h3>
 
