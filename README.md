@@ -34,11 +34,13 @@ I knew that my current position required me to perform lots of jobs outside the 
 
 So if I can do all that while running a studio, why can't I apply this same technique to learning software development? Starting in April 2020, that's exactly what I did. I signed up for classes with Code Fellows and wrote my very first line of code. 
 
-I knew becoming a software developer would mean that I can safely work from home and that is really what made this choice so easy. Because COVID-19 is so deadly, I want to do my best to help save as many lives as we can and working from home is a great way to avoid infection and instigating mutations. 
+I knew becoming a software developer would mean that I can safely work from home and that is really what made this choice so easy. Because COVID-19 is so deadly, I want to do my best to help save as many lives as we can and working from home is a great way to avoid infection and instigating new mutations. 
  
 
 ---------------------
 <h3>🐍 My Developer Identity</h3>
+
+I studied **Full Stack Development** at Code Fellows but I have really found true love in **Data Science** and **Machine Learning**.  I am attracted to the suggestions and facts that can be scientifically deduced from data. Gathering, manipulating and learning from data was part of my previous career and felt like a natural avenue in software development. 
 
   - 🛠️ Technologies and Tools
   
