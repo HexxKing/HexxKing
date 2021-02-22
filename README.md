@@ -51,6 +51,12 @@ Here are some ideas to get you started:
 ---------------------
 <h3>🎟️ Events I'm Attending</h3>
 
+  - [Elevate](https://girlgeek.io/conferences/elevate2021/) - 03/08/21
+    - The 4th annual Girl Geek X: Elevate virtual conference for mid-to-senior level women is a full day of talks on leadership, resilience, inclusive research, modernizing mobile codebases, strategies for remote teams, security, AI, and more!
+
+  - [PyCascades](https://2021.pycascades.com/) - 02/20/21
+    - PyCascades is organized by members of the Python communities in Vancouver, Seattle, and Portland. It is a 2 day virtual conference that aims to bring together Python users and developers from around the world.
+
 ---------------------
 <h3>📻 My Favorite Coding Playlists</h3>
 
