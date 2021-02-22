@@ -43,6 +43,12 @@ I knew becoming a software developer would mean that I can safely work from home
 I studied **Full Stack Development** at Code Fellows but I have really found true love in **Data Science** and **Machine Learning**.  I am attracted to the suggestions and facts that can be scientifically deduced from data. Gathering, manipulating and learning from data was part of my previous career and felt like a natural avenue in software development. 
 
   - 🛠️ Technologies and Tools
+
+    - **OS** : macOS Catalina, Microsoft Windows
+    - **Editor** : Visual Studio Code, Jupyter Notebook
+    - **Languages** : Python, SQL, JavaScript(ES6), jQuery, CSS, HTML, Markdown
+    - **Frameworks/Layouts/Templates** : Django (REST), PyTest, EJS, Express.js, SMACSS (Scalable and Modular Architecture for CSS), CSS Flexbox & Grid
+    - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Selenium with Python, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, Chrome DevTools, Regex, npm, Node.js, Chart.js
   
   - 💎 Non-Traditional Background
 
