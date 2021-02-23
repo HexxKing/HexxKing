@@ -87,6 +87,7 @@ I knew becoming a software developer would mean that I can safely work from home
       - Holding yourself and others accountable
 
 
+  <!-- Start a twitter hashtag that I can later link to here #ThisIsWhyIWantToWorkInTech -->
   - ### 🌈 **Why I Want to Work in Tech**
     - Working from home is safer.
     - I am ready for a liveable wage, excellent healthcare and great benefits.
