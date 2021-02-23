@@ -54,7 +54,7 @@ I knew becoming a software developer would mean that I can safely work from home
     #### I never expected to end up working in technology but I have collected many invaluable skills along the way. Check out my past roles and the transferable skills I learned from them.
 
     - **Competitive Trained Dancer & Professional Ballerina at Houston Ballet - 18 Years**
-    - stamina, perseverance, motivation, discipline, creativity, resilience, self-confidence, adaptability, teamwork/collaboration, cultural, self-control, commitment, attention to detail, respect for deadlines, listening and following directions
+      - stamina, perseverance, motivation, discipline, creativity, resilience, self-confidence, adaptability, teamwork/collaboration, cultural, self-control, commitment, attention to detail, respect for deadlines, listening and following directions
 
     - **The Walt Disney Company Cast Member & Disney College Program - 2.5 Years : Attractions, Lifeguard, Entertainment, Animal Programs**
       - customer service, communication, creating a safe environment, working in high volume capacity, product knowledge, linguistics, foretelling negative experiences, creating magic and happiness, friendliness, patience, composure, multitasking, self-care
