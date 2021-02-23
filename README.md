@@ -66,6 +66,26 @@ I knew becoming a software developer would mean that I can safely work from home
 	    - Approachability, personal appearance, workplace happiness, mentorship, professionalism, brand image, digital marketing, sales, motivation, employee development, polietness, payroll, auditing, inventory management, accountability, consistency, leadership, self-learning, problem-solving, data analysis, analytical thinking, graphic design, merchandising, public health education, documentation, technology trouble-shooting, interviewing/hiring, public speaking, grace
 
   - ### 🌟 **Professional Competencies**
+    - A Growth Mindset:
+      - Ability to deal with ambiguous situations and solve problems with agility
+      - Envision beyond the responsibility of my role
+      - Build a career across multiple disciplines
+      - Attend every opportunity to learn and grow as a professional and a better human 
+
+    - Diverse and Inclusive:
+      - Empower every person to achieve more
+      - Influencing others by encouraging communication
+      - Lifting up "Non-Traditional Backgrounds"
+      - Create a safe working environment for everyone
+      - Community outreach through volunteering
+
+    - Leadership & Collaboration:
+      - Effectively communicating within a team and across teams
+      - Positively influencing others by setting a good example 
+      - Working tenaciously to deliver on commitments
+      - Constantly seeking bigger challenges
+      - Holding yourself and others accountable
+
 
   - ### 🌈 **Why I Want to Work in Tech**
 
