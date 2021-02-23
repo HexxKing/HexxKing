@@ -130,7 +130,6 @@ I knew becoming a software developer would mean that I can safely work from home
 
   - Retired Disney Princess
   - Studied 14 Different Styles of Dance over 18 Years of My Life
-  - Offered First Aid at the BLM protests in Seattle and Portland in 2020
   - Took Up Longboarding at 25 and Roller Skating at 30 Years Old
   - Collects Carnivorous Plants
   - Performed Burlesque with a Troupe of Drag Kings
