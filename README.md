@@ -58,13 +58,13 @@ I knew becoming a software developer would mean that I can safely work from home
 resilience, self-confidence, adaptability, teamwork/collaboration, cultural, self-control, commitment, attention to detail, respect for deadlines, listening and following directions
 
     - **The Walt Disney Company Cast Member & Disney College Program - 2.5 Years : Attractions, Lifeguard, Entertainment, Animal Programs**
-      - customer service, communication, creating a safe environment, working in high volume capacity, product knowledge, linguistics, foretelling negative experiences, creating magic and happiness, friendliness, patience, composure, multitasking
+      - customer service, communication, creating a safe environment, working in high volume capacity, product knowledge, linguistics, foretelling negative experiences, creating magic and happiness, friendliness, patience, composure, multitasking, self-care
 
     - **Craft Cocktail Bartender & Award-Winning Barista - 10 Years**
-	    - kinesics, networking/relationship building, improvisation, quick memorization, money-related math, integrity, persuasion, chemistry, stress management, spatial awareness, critical thinking, event planning, time management, attentiveness, enthusiasm, 
+	    - kinesics, networking/relationship building, improvisation, quick memorization, money-related math, integrity, persuasion, chemistry, stress management, spatial awareness, critical thinking, event planning, time management, attentiveness, enthusiasm
 
-    - **Studio Manager in Professional Body Modification Studio and Luxury  Jewelry Brand Ambassador - 4 Years**
-	    - Approachability, personal appearance, workplace happiness, mentorship, professionalism, brand image, digital marketing, sales, motivation, employee development, polietness, payroll, auditing, inventory management, accountability, consistency, leadership, self-learning, problem-solving, data analysis, analytical thinking, graphic design, merchandising, public health education, documentation, technology trouble-shooting, interviewing/hiring, public speaking
+    - **Manager in Professional Body Modification Studio and Luxury Gold Jewelry Brand Ambassador - 4 Years**
+	    - Approachability, personal appearance, workplace happiness, mentorship, professionalism, brand image, digital marketing, sales, motivation, employee development, polietness, payroll, auditing, inventory management, accountability, consistency, leadership, self-learning, problem-solving, data analysis, analytical thinking, graphic design, merchandising, public health education, documentation, technology trouble-shooting, interviewing/hiring, public speaking, grace
 
 
   - ### 🌟 **Professional Competencies**
