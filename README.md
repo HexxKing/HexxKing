@@ -133,6 +133,7 @@ I knew becoming a software developer would mean that I can safely work from home
 <footer>
 <h3>📚 Resources:</h3>
 
+- Header from <a href="https://www.canva.com/">Canva</a>
 - Social media favicons from <a href="https://icons8.com">Icons8</a>
 - <a href="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7">Build a Stunning README For Your GitHub Profile</a>
 </footer>
