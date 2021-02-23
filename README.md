@@ -88,8 +88,19 @@ I knew becoming a software developer would mean that I can safely work from home
 
 
   - ### 🌈 **Why I Want to Work in Tech**
+    - Working from home is safer.
+    - I am ready for a liveable wage, excellent healthcare and great benefits.
+    - My ability to adapt allows me to change my professional career.
+    - I am a lifelong learner looking to keep life interesting.
+    - I recognize that software and technology is the future.
+    - The women and queer developer community is welcoming and supportive.
+    - I want to empower other queer people and women to join the tech community.
+    - I want to help make the world a more accessible place for everyone.
+    - The relentless spread of misinformation on the internet affects everyone's quality of life and I want to stop it.
+    - Cyber crime is on the rise and I want to help make the world safer.
 
-  - ### 👭 **My Favorite Organizations*
+
+  - ### 👭 **My Favorite Organizations**
 <!-- technologies and tools, stuff from slides, fav organizations, quote from RBG -->
 
 ---------------------
