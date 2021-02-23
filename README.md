@@ -90,7 +90,7 @@ I knew becoming a software developer would mean that I can safely work from home
   <!-- Start a twitter hashtag that I can later link to here #ThisIsWhyIWantToWorkInTech -->
   - ### 🌈 **Why I Want to Work in Tech**
     - Working from home is safest during a pandemic.
-    - I am ready for a liveable wage, excellent healthcare and great benefits.
+    - I am ready for a liveable wage, excellent healthcare and rewarding benefits.
     - My ability to adapt allows me to change my professional career.
     - I am a lifelong learner looking to keep life interesting.
     - I recognize that software and technology is the future.
@@ -129,7 +129,7 @@ I knew becoming a software developer would mean that I can safely work from home
 <h3>👽 Fun Facts</h3>
 
   - Retired Disney Princess
-  - Studied 14 Different Styles of Dance over 18 Years of My Life
+  - Studied 14 Different Styles of Dance over 18 Years
   - Took Up Longboarding at 25 and Roller Skating at 30 Years Old
   - Collects Carnivorous Plants
   - Performed Burlesque with a Troupe of Drag Kings
@@ -147,4 +147,5 @@ I knew becoming a software developer would mean that I can safely work from home
 - Header from <a href="https://www.canva.com/">Canva</a>
 - Social media favicons from <a href="https://icons8.com">Icons8</a>
 - <a href="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7">Build a Stunning README For Your GitHub Profile</a>
+- <a href="https://sarah-hart-landolt.medium.com/6-easy-steps-to-create-a-beautiful-github-profile-readme-edc7840b2c7">6 Easy Steps to Create a Beautiful GitHub Profile README</a>
 </footer>
