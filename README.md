@@ -128,6 +128,18 @@ I knew becoming a software developer would mean that I can safely work from home
 ---------------------
 <h3>👽 Fun Facts</h3>
 
+  - Retired Disney Princess
+  - Studied 14 Different Styles of Dance over 18 Years of My Life
+  - Offered First Aid at the BLM protests in Seattle and Portland in 2020
+  - Took Up Longboarding at 25 and Roller Skating at 30 Years Old
+  - Collects Carnivorous Plants
+  - Performed Burlesque with a Troupe of Drag Kings
+  - Collected over 1,000 Hours of Tattoo Artwork and Body Modifications
+  - Studied the Spanish Language and Mexican Culture for 6 Years
+  - Tarot Reader for 6 Years
+  - Enjoys All Venues of Self-Improvement
+  - Wants to Build an EarthShip One Day
+
 ---------------------
 <!-- ======FOOTER============================= -->
 <footer>
