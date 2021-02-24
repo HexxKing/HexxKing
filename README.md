@@ -172,6 +172,9 @@ I knew becoming a software developer would mean that I can safely work from home
 - <a href="https://sarah-hart-landolt.medium.com/6-easy-steps-to-create-a-beautiful-github-profile-readme-edc7840b2c7">6 Easy Steps to Create a Beautiful GitHub Profile README</a>
 - <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-profile">Setting up and managing your GitHub profile
 </a>
+
+![header img here](./images/rbg.png)
+
 </footer>
 
 <!-- technologies and tools, stuff from slides, fav organizations, quote from RBG -->
