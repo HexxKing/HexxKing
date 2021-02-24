@@ -50,7 +50,8 @@ I knew becoming a software developer would mean that I can safely work from home
     - **Frameworks/Layouts/Templates** : Django (REST), PyTest, EJS, Express.js, SMACSS (Scalable and Modular Architecture for CSS), CSS Flexbox & Grid
     - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Selenium with Python, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, Chrome DevTools, Regex, npm, Node.js, Chart.js
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexxKing&layout=compact&theme=midnight-purple)](https://github.com/HexxKing/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexxKing&layout=compact&theme=midnight-purple&card_width=500)](https://github.com/HexxKing/github-readme-stats)
+
   
   - ### 💎 **Non-Traditional Background**
     #### I never expected to end up working in technology but I have collected many invaluable skills along the way. Check out my past roles and the transferable skills I learned from them.
@@ -126,6 +127,9 @@ I knew becoming a software developer would mean that I can safely work from home
   - [Solo Learn : DS with Python Course](https://www.sololearn.com/profile/18994378)
   - [Udemy : Python Crash Course for Data Science and Machine Learning Course](https://www.udemy.com/course/python-crash-course-for-data-science-and-machine-learning/)
   - [Microsoft Learn : Azure Fundamentals part 1: Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+---------------------
+
+[![Hexx's GitHub stats](https://github-readme-stats.vercel.app/api?username=HexxKing&&show_icons=true&theme=midnight-purple&card_width=500)](https://github.com/HexxKing/github-readme-stats)
 
 ---------------------
 <h3>🎟️ Events I'm Attending</h3>
@@ -181,5 +185,3 @@ I knew becoming a software developer would mean that I can safely work from home
 - <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-profile">Setting up and managing your GitHub profile
 </a>
 </footer>
-
-[![Hexx's GitHub stats](https://github-readme-stats.vercel.app/api?username=HexxKing&&show_icons=true&theme=midnight-purple)](https://github.com/HexxKing/github-readme-stats)
