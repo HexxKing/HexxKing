@@ -43,9 +43,10 @@ I knew becoming a software developer would mean that I can safely work from home
     - **Frameworks/Layouts/Templates** : Django (REST), PyTest, EJS, Express.js, SMACSS (Scalable and Modular Architecture for CSS), CSS Flexbox & Grid
     - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Selenium with Python, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, Chrome DevTools, Regex, npm, Node.js, Chart.js
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexxKing&layout=compact&theme=midnight-purple&card_width=500)](https://github.com/HexxKing/github-readme-stats)
 
-  
+
   - ### 💎 **Non-Traditional Background**
     #### I never expected to end up working in technology but I have collected many invaluable skills along the way. Check out my past roles and the transferable skills I learned from them.
 
