@@ -49,6 +49,8 @@ I knew becoming a software developer would mean that I can safely work from home
     - **Languages** : Python, SQL, JavaScript(ES6), jQuery, CSS, HTML, Markdown
     - **Frameworks/Layouts/Templates** : Django (REST), PyTest, EJS, Express.js, SMACSS (Scalable and Modular Architecture for CSS), CSS Flexbox & Grid
     - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Selenium with Python, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, Chrome DevTools, Regex, npm, Node.js, Chart.js
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexxKing&layout=compact&theme=midnight-purple)](https://github.com/HexxKing/github-readme-stats)
   
   - ### 💎 **Non-Traditional Background**
     #### I never expected to end up working in technology but I have collected many invaluable skills along the way. Check out my past roles and the transferable skills I learned from them.
@@ -135,6 +137,12 @@ I knew becoming a software developer would mean that I can safely work from home
     - PyCascades is organized by members of the Python communities in Vancouver, Seattle, and Portland. It is a 2 day virtual conference that aims to bring together Python users and developers from around the world.
 
 ---------------------
+
+![header img here](./images/rbg.png)
+
+---------------------
+
+
 <h3>📻 My Favorite Coding Playlists</h3>
 
   - [Pop Goes Classical](https://open.spotify.com/playlist/37i9dQZF1DWUPafHP1BJw1?si=9JTN8J_bS0iVzTT0GeULzA)
@@ -172,9 +180,6 @@ I knew becoming a software developer would mean that I can safely work from home
 - <a href="https://sarah-hart-landolt.medium.com/6-easy-steps-to-create-a-beautiful-github-profile-readme-edc7840b2c7">6 Easy Steps to Create a Beautiful GitHub Profile README</a>
 - <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-profile">Setting up and managing your GitHub profile
 </a>
-
-![header img here](./images/rbg.png)
-
 </footer>
 
-<!-- technologies and tools, stuff from slides, fav organizations, quote from RBG -->
+[![Hexx's GitHub stats](https://github-readme-stats.vercel.app/api?username=HexxKing&&show_icons=true&theme=midnight-purple)](https://github.com/HexxKing/github-readme-stats)
