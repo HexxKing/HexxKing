@@ -123,7 +123,9 @@ I knew becoming a software developer would mean that I can safely work from home
   - [Microsoft Learn : Azure Fundamentals part 1: Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
 ---------------------
 
-[![Hexx's GitHub stats](https://github-readme-stats.vercel.app/api?username=HexxKing&&show_icons=true&theme=midnight-purple&card_width=800)](https://github.com/HexxKing/github-readme-stats)
+<a href="https://github.com/HexxKing/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HexxKing&show_icons=true&theme=midnight-purple" />
+</a>
 
 ---------------------
 <h3>🎟️ Events I'm Attending</h3>
