@@ -114,8 +114,16 @@ I knew becoming a software developer would mean that I can safely work from home
 ---------------------
 <h3>✍️ What I'm Working On</h3>
 
+  - [Kaggle : Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+  - [LeetCode : Arrays 101](https://leetcode.com/hexxking13/)
+  - [HackerRank : 10 Days of JavaScript](https://www.hackerrank.com/hexxking13)
+
 ---------------------
 <h3>💡 What I'm Learning</h3>
+
+  - [Solo Learn : DS with Python Course](https://www.sololearn.com/profile/18994378)
+  - [Udemy : Python Crash Course for Data Science and Machine Learning Course](https://www.udemy.com/course/python-crash-course-for-data-science-and-machine-learning/)
+  - [Microsoft Learn : Azure Fundamentals part 1: Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
 
 ---------------------
 <h3>🎟️ Events I'm Attending</h3>
