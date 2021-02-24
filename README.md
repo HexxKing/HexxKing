@@ -44,7 +44,7 @@ I knew becoming a software developer would mean that I can safely work from home
     - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Selenium with Python, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, Chrome DevTools, Regex, npm, Node.js, Chart.js
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexxKing&layout=compact&theme=midnight-purple&card_width=700)](https://github.com/HexxKing/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexxKing&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/HexxKing/github-readme-stats)
 
 
   - ### 💎 **Non-Traditional Background**
@@ -123,7 +123,7 @@ I knew becoming a software developer would mean that I can safely work from home
   - [Microsoft Learn : Azure Fundamentals part 1: Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
 ---------------------
 
-[![Hexx's GitHub stats](https://github-readme-stats.vercel.app/api?username=HexxKing&&show_icons=true&theme=midnight-purple&card_width=500)](https://github.com/HexxKing/github-readme-stats)
+[![Hexx's GitHub stats](https://github-readme-stats.vercel.app/api?username=HexxKing&&show_icons=true&theme=midnight-purple&card_width=800)](https://github.com/HexxKing/github-readme-stats)
 
 ---------------------
 <h3>🎟️ Events I'm Attending</h3>
