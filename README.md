@@ -1,16 +1,4 @@
 
-<!--
-**HexxKing/HexxKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- name/ job title / personal titles
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-
--->
-
 <!-- ======Header============================= -->
 ![header img here](./images/header.png)
 
@@ -25,6 +13,11 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=HexxKing.visitor-badge" width="90px">
+</p>
+
 
 <h3>🧑‍💻 How I Became a Developer</h3>
 
