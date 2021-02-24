@@ -170,6 +170,12 @@ I knew becoming a software developer would mean that I can safely work from home
   - Wants to Build an EarthShip One Day
 
 ---------------------
+<h3 align="center">🔥 Random Dev Meme Generator 🔥</h3>
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+---------------------
+
 <!-- ======FOOTER============================= -->
 <footer>
 <h3>📚 Resources:</h3>
