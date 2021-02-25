@@ -1,7 +1,4 @@
-
-<!-- ======Header============================= -->
 ![header img here](./images/header.png)
-
 
 <p align="center">
 <!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
@@ -18,7 +15,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=HexxKing.HexxKing" width="110px">
 </p>
 
-
+---------------------
 <h3>🧑‍💻 How I Became a Developer</h3>
 
 My story really began when my closest friend convinced me that I have the grit needed to make it through an accelerated software development program. It was March 2020, and I had just successfully led my team of specialists and artists to our most successful sales year, in 15 years. Then COVID-19 came and put my professional life on hold and gave me a moment to reevaluate my career choice. 
@@ -28,7 +25,6 @@ I knew that my current position required me to perform lots of jobs outside the 
 So if I can do all that while running a studio, why can't I apply this same technique to learning software development? Starting in April 2020, that's exactly what I did. I signed up for classes with Code Fellows and wrote my very first line of code. 
 
 I knew becoming a software developer would mean that I can safely work from home and that is really what made this choice so easy. Because COVID-19 is so deadly, I want to do my best to help save as many lives as we can and working from home is a great way to avoid infection and instigating new mutations. 
- 
 
 ---------------------
 <h3>🐍 My Developer Identity</h3>
@@ -43,9 +39,7 @@ I knew becoming a software developer would mean that I can safely work from home
     - **Frameworks/Layouts/Templates** : Django (REST), PyTest, EJS, Express.js, SMACSS (Scalable and Modular Architecture for CSS), CSS Flexbox & Grid
     - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Selenium with Python, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, Chrome DevTools, Regex, npm, Node.js, Chart.js
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexxKing&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/HexxKing/github-readme-stats)
-
 
   - ### 💎 **Non-Traditional Background**
     #### I never expected to end up working in technology but I have collected many invaluable skills along the way. Check out my past roles and the transferable skills I learned from them.
@@ -83,7 +77,6 @@ I knew becoming a software developer would mean that I can safely work from home
       - Constantly seeking bigger challenges
       - Holding yourself and others accountable
 
-
   <!-- Start a twitter hashtag that I can later link to here #ThisIsWhyIWantToWorkInTech -->
   - ### 🌈 **Why I Want to Work in Tech**
     - Working from home is safest during a pandemic.
@@ -97,7 +90,6 @@ I knew becoming a software developer would mean that I can safely work from home
     - The relentless spread of misinformation on the internet affects everyone's quality of life and I want to stop it.
     - Cyber crime is on the rise and I want to help make the world safer.
 
-
   - ### 👭 **My Favorite Organizations**
     - [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
     - [Lesbians Who Tech](https://lesbianswhotech.org/about/)
@@ -106,7 +98,6 @@ I knew becoming a software developer would mean that I can safely work from home
     - [Code Newbie](https://www.codenewbie.org/)
     - [PuPPy](https://www.pspython.com/app/)
     - [Tech Ladies](https://www.hiretechladies.com/)
-
 
 ---------------------
 <h3>✍️ What I'm Working On</h3>
@@ -142,7 +133,6 @@ I knew becoming a software developer would mean that I can safely work from home
 
 ---------------------
 
-
 <h3>📻 My Favorite Coding Playlists</h3>
 
   - [Pop Goes Classical](https://open.spotify.com/playlist/37i9dQZF1DWUPafHP1BJw1?si=9JTN8J_bS0iVzTT0GeULzA)
@@ -150,7 +140,6 @@ I knew becoming a software developer would mean that I can safely work from home
   - [Brain Power](https://open.spotify.com/playlist/7KxpNGzqnlzXdQxrgF7aBV?si=mmOXpl3zShuvYp-GWeKaRQ)
   - [Bad Girls Do It Well](https://open.spotify.com/playlist/0rst8pDrV7wTC7iZg01G2j?si=TEOv8awtTn66bPXcy_LWtA)
   - [Acoustic Rock](https://open.spotify.com/playlist/37i9dQZF1DX0rCrO4CFRfM?si=Fi5-1AocQFiaBFmYmuXQhA)
-
 
 <!-- --------------------- -->
 <!-- <h3>👭 What I'm Contributing To</h3> -->
@@ -171,9 +160,8 @@ I knew becoming a software developer would mean that I can safely work from home
 
 ---------------------
 
-<!-- ======FOOTER============================= -->
 <footer>
-<h3>📚 Resources:</h3>
+<h3>📚 Resources Used to Build This Repo:</h3>
 
 - Header from <a href="https://www.canva.com/">Canva</a>
 - Social media favicons from <a href="https://icons8.com">Icons8</a>
