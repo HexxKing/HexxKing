@@ -140,6 +140,7 @@ I knew becoming a software developer would mean that I can safely work from home
   - [Brain Power](https://open.spotify.com/playlist/7KxpNGzqnlzXdQxrgF7aBV?si=mmOXpl3zShuvYp-GWeKaRQ)
   - [Bad Girls Do It Well](https://open.spotify.com/playlist/0rst8pDrV7wTC7iZg01G2j?si=TEOv8awtTn66bPXcy_LWtA)
   - [Acoustic Rock](https://open.spotify.com/playlist/37i9dQZF1DX0rCrO4CFRfM?si=Fi5-1AocQFiaBFmYmuXQhA)
+  - [Rage](https://open.spotify.com/playlist/2OhZAN0BXwZYPREgaVVm6k?si=xSHyyD2HTwmBT40ha4cdoQ)
 
 <!-- --------------------- -->
 <!-- <h3>👭 What I'm Contributing To</h3> -->
