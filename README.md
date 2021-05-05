@@ -121,6 +121,9 @@ I knew becoming a software developer would mean that I can safely work from home
 ---------------------
 <h3>🎟️ Events I'm Attending</h3>
 
+  - [Microsoft Build](https://mybuild.microsoft.com/home) - 05/25-05/27/21
+    - Explore solutions, sharpen skills, and add to your toolbox at this year’s event. Find out what’s next in tech and the future of hybrid work at this free, all-digital event held by Microsoft. 
+
   - [Elevate](https://girlgeek.io/conferences/elevate2021/) - 03/08/21
     - The 4th annual Girl Geek X: Elevate virtual conference for mid-to-senior level women is a full day of talks on leadership, resilience, inclusive research, modernizing mobile codebases, strategies for remote teams, security, AI, and more!
 
@@ -129,7 +132,7 @@ I knew becoming a software developer would mean that I can safely work from home
 
 ---------------------
 
-![header img here](./images/rbg.png)
+![RGB banner here](./images/rbg.png)
 
 ---------------------
 
