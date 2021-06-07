@@ -18,7 +18,7 @@
 ---------------------
 <h3>🧑‍💻 How I Became a Developer</h3>
 
-Like many others, COIVD-19 gave me lots to think about. In March 2020, we were asked to leave our jobs and stay home for an undetermined amount of time because it was too dangerous to be around other humans. I decided that this was my chance to make a huge change. There was no room for excuses because I had all the time in the world and nowhere to be. 
+Like many others, COVID-19 gave me lots to think about. In March 2020, we were asked to leave our jobs and stay home for an undetermined amount of time because it was too dangerous to be around other humans. I decided that this was my chance to make a huge change. There was no room for excuses because I had all the time in the world and nowhere to be. 
 
 A developer friend convinced me to attend an accelerated software development program and 9 months later, I graduated from Code Fellows with countless new skills. A year later in March 2021, I started working my first job in the technology industry as a teaching assistant and tutor at Code Fellows. 
 
