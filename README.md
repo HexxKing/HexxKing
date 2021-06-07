@@ -18,13 +18,11 @@
 ---------------------
 <h3>🧑‍💻 How I Became a Developer</h3>
 
-My story really began when my closest friend convinced me that I have the grit needed to make it through an accelerated software development program. It was March 2020, and I had just successfully led my team of specialists and artists to our most successful sales year, in 15 years. Then COVID-19 came and put my professional life on hold and gave me a moment to reevaluate my career choice. 
+Like many others, COIVD-19 gave me lots to think about. In March 2020, we were asked to leave our jobs and stay home for an undetermined amount of time because it was too dangerous to be around other humans. I decided that this was my chance to make a huge change. There was no room for excuses because I had all the time in the world and nowhere to be. 
 
-I knew that my current position required me to perform lots of jobs outside the traditional "manager" role and that I was able to teach myself any new skills I needed. I took my professional education into my own hands and in return, delivered this knowledge to my employees in an effort to lift the whole team up. 
+A developer friend convinced me to attend an accelerated software development program and 9 months later, I graduated from Code Fellows with countless new skills. A year later in March 2021, I started working my first job in the technology industry as a teaching assistant and tutor at Code Fellows. 
 
-So if I can do all that while running a studio, why can't I apply this same technique to learning software development? Starting in April 2020, that's exactly what I did. I signed up for classes with Code Fellows and wrote my very first line of code. 
-
-I knew becoming a software developer would mean that I can safely work from home and that is really what made this choice so easy. Because COVID-19 is so deadly, I want to do my best to help save as many lives as we can and working from home is a great way to avoid infection and instigating new mutations. 
+Now, I am focusing on strengthening my problem-solving skills, practicing data structures and algorithms and learning more about data science and machine learning. I am continuing to learn as much as I can about the technology industry in an effort to find my ideal role at my dream company.  
 
 ---------------------
 <h3>🐍 My Developer Identity</h3>
