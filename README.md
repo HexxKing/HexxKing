@@ -22,7 +22,7 @@ Like many others, COIVD-19 gave me lots to think about. In March 2020, we were a
 
 A developer friend convinced me to attend an accelerated software development program and 9 months later, I graduated from Code Fellows with countless new skills. A year later in March 2021, I started working my first job in the technology industry as a teaching assistant and tutor at Code Fellows. 
 
-Now, I am focusing on strengthening my problem-solving skills, practicing data structures and algorithms and learning more about data science and machine learning. I am continuing to learn as much as I can about the technology industry in an effort to find my ideal role at my dream company.  
+Now, I am focusing on strengthening my problem-solving skills, practicing data structures and algorithms and learning more about data science and machine learning. I am continuing to learn as much as I can about the technology industry in an effort to find my forever role at my dream company.  
 
 ---------------------
 <h3>🐍 My Developer Identity</h3>
