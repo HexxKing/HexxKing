@@ -100,16 +100,15 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
 ---------------------
 <h3>✍️ What I'm Working On</h3>
 
-  - [Kaggle : Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
   - [LeetCode : Arrays 101](https://leetcode.com/hexxking13/)
-  - [HackerRank : 10 Days of JavaScript](https://www.hackerrank.com/hexxking13)
+  - [Microsoft Certification : Azure Fundamentals](https://docs.microsoft.com/en-us/users/hexxking-0748/)
+  - [Threat Detective : Data Science and Machine Learning App](https://github.com/ThreatDetectives)
 
 ---------------------
 <h3>💡 What I'm Learning</h3>
 
-  - [Solo Learn : DS with Python Course](https://www.sololearn.com/profile/18994378)
-  - [Udemy : Python Crash Course for Data Science and Machine Learning Course](https://www.udemy.com/course/python-crash-course-for-data-science-and-machine-learning/)
-  - [Microsoft Learn : Azure Fundamentals part 1: Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+  - [Solo Learn : C#](https://www.sololearn.com/profile/18994378)
+
 ---------------------
 
 <a href="https://github.com/HexxKing/github-readme-stats">
@@ -118,6 +117,12 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
 
 ---------------------
 <h3>🎟️ Events I'm Attending</h3>
+
+  - [Code Fellows Global Job Fair and Demo Day](https://www.linkedin.com/feed/update/urn:li:activity:6816791065690025984/) - 07/07/21
+    - [Threat Detective](https://github.com/ThreatDetectives) (my final Code Fellow's project) was chosen to represent my school in this year's Global Job Fair! 
+
+  - [Pride Summit 2021](https://lesbianswhotech.org/pridesummit2021/) - 06/21-06/25/21
+    - Enhance your leadership skills and techincal skills while preparing for the work ahead needed to fix our democracy, systemic racism, policy brutality, a global pandemic, our climate and so much more. Hosted by Lesbians Who Tech.
 
   - [Microsoft Build](https://mybuild.microsoft.com/home) - 05/25-05/27/21
     - Explore solutions, sharpen skills, and add to your toolbox at this year’s event. Find out what’s next in tech and the future of hybrid work at this free, all-digital event held by Microsoft. 
