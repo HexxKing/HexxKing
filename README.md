@@ -4,9 +4,9 @@
 <!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
 <a href="https://www.linkedin.com/in/hexx-king/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/hexx_king" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/hexxking13/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/facebook.png"></a>&nbsp;&nbsp;
+<!-- <a href="https://www.facebook.com/hexxking13/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/facebook.png"></a>&nbsp;&nbsp; -->
 <a href="mailto:hexxking13@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp;
+<!-- <a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp; -->
 </p>
 
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
@@ -27,7 +27,7 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
 ---------------------
 <h3>🐍 My Developer Identity</h3>
 
-### I studied **Full Stack Development** at Code Fellows but I have really found true love in **Data Science** and **Machine Learning**.  I am attracted to the suggestions and facts that can be scientifically deduced from data. Gathering, manipulating and learning from data was part of my previous career and felt like a natural avenue in software development. 
+### I studied **Full Stack Development** at Code Fellows but I have really found true love in **Data Science** and **Machine Learning**.  I am attracted to the suggestions and facts that can be scientifically deduced from data. Gathering, manipulating and learning from data was part of my previous career and felt like a natural avenue in software development.
 
   - ### 🛠️ **Technologies and Tools**
 
@@ -37,7 +37,7 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
     - **Frameworks/Layouts/Templates** : Django (REST), PyTest, EJS, Express.js, SMACSS (Scalable and Modular Architecture for CSS), CSS Flexbox & Grid
     - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Selenium with Python, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, Chrome DevTools, Regex, npm, Node.js, Chart.js
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexxKing&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/HexxKing/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexxKing&layout=compact&theme=midnight-purple&card_width=800&langs_count=10)](https://github.com/HexxKing/github-readme-stats)
 
   - ### 💎 **Non-Traditional Background**
     #### I never expected to end up working in technology but I have collected many invaluable skills along the way. Check out my past roles and the transferable skills I learned from them.
@@ -75,7 +75,7 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
       - Constantly seeking bigger challenges
       - Holding yourself and others accountable
 
-  <!-- Start a twitter hashtag that I can later link to here #ThisIsWhyIWantToWorkInTech -->
+
   - ### 🌈 **Why I Want to Work in Tech**
     - Working from home is safest during a pandemic.
     - I am ready for a liveable wage, excellent healthcare and rewarding benefits.
