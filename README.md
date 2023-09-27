@@ -3,13 +3,17 @@
 <p align="center">
 <!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
 <a href="https://www.linkedin.com/in/hexx-king/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/hexx_king" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/twitter.png"></a>&nbsp;&nbsp;
+<!-- <a href="https://twitter.com/hexx_king" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/twitter.png"></a>&nbsp;&nbsp; -->
 <!-- <a href="https://www.facebook.com/hexxking13/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/facebook.png"></a>&nbsp;&nbsp; -->
 <a href="mailto:hexxking13@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
 <!-- <a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp; -->
 </p>
 
-<h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="center">Welcome to my GitHub!</h2>
+
+<p align="center">
+<img src="images/barbie_wave.gif" height="70">
+</p>
 
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=HexxKing.HexxKing" width="110px">
@@ -39,21 +43,6 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexxKing&layout=compact&theme=midnight-purple&card_width=800&langs_count=10)](https://github.com/HexxKing/github-readme-stats)
 
-  - ### 💎 **Non-Traditional Background**
-    #### I never expected to end up working in technology but I have collected many invaluable skills along the way. Check out my past roles and the transferable skills I learned from them.
-
-    - **Competitive Trained Dancer & Professional Ballerina at Houston Ballet - 18 Years**
-      - stamina, perseverance, motivation, discipline, creativity, resilience, self-confidence, adaptability, teamwork/collaboration, cultural, self-control, commitment, attention to detail, respect for deadlines, listening and following directions
-
-    - **The Walt Disney Company Cast Member & Disney College Program - 2.5 Years : Attractions, Lifeguard, Entertainment, Animal Programs**
-      - customer service, communication, creating a safe environment, working in high volume capacity, product knowledge, linguistics, foretelling negative experiences, creating magic and happiness, friendliness, patience, composure, multitasking, self-care
-
-    - **Craft Cocktail Bartender & Award-Winning Barista - 10 Years**
-	    - kinesics, networking/relationship building, improvisation, quick memorization, money-related math, integrity, persuasion, chemistry, stress management, spatial awareness, critical thinking, event planning, time management, attentiveness, enthusiasm
-
-    - **Manager in Professional Body Modification Studio and Luxury Gold Jewelry Brand Ambassador - 4 Years**
-	    - Approachability, personal appearance, workplace happiness, mentorship, professionalism, brand image, digital marketing, sales, motivation, employee development, polietness, payroll, auditing, inventory management, accountability, consistency, leadership, self-learning, problem-solving, data analysis, analytical thinking, graphic design, merchandising, public health education, documentation, technology trouble-shooting, interviewing/hiring, public speaking, grace
-
   - ### 🌟 **Professional Competencies**
     - A Growth Mindset:
       - Ability to deal with ambiguous situations and solve problems with agility
@@ -75,19 +64,6 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
       - Constantly seeking bigger challenges
       - Holding yourself and others accountable
 
-
-  - ### 🌈 **Why I Want to Work in Tech**
-    - Working from home is safest during a pandemic.
-    - I am ready for a liveable wage, excellent healthcare and rewarding benefits.
-    - My ability to adapt allows me to change my professional career.
-    - I am a lifelong learner looking to keep life interesting.
-    - I recognize that software and technology is the future.
-    - The women and queer developer community is welcoming and supportive.
-    - I want to empower other queer people and women to join the tech community.
-    - I want to help make the world a more accessible place for everyone.
-    - The relentless spread of misinformation on the internet affects everyone's quality of life and I want to stop it.
-    - Cyber crime is on the rise and I want to help make the world safer.
-
   - ### 👭 **My Favorite Organizations**
     - [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
     - [Lesbians Who Tech](https://lesbianswhotech.org/about/)
@@ -98,40 +74,10 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
     - [Tech Ladies](https://www.hiretechladies.com/)
 
 ---------------------
-<h3>✍️ What I'm Working On</h3>
-
-  - [LeetCode : Arrays 101](https://leetcode.com/hexxking13/)
-  - [Microsoft Certification : Azure Fundamentals](https://docs.microsoft.com/en-us/users/hexxking-0748/)
-  - [Threat Detective : Data Science and Machine Learning App](https://github.com/ThreatDetectives)
-
----------------------
-<h3>💡 What I'm Learning</h3>
-
-  - [Solo Learn : C#](https://www.sololearn.com/profile/18994378)
-
----------------------
 
 <a href="https://github.com/HexxKing/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HexxKing&show_icons=true&theme=midnight-purple" />
 </a>
-
----------------------
-<h3>🎟️ Events I'm Attending</h3>
-
-  - [Code Fellows Global Job Fair and Demo Day](https://www.linkedin.com/feed/update/urn:li:activity:6816791065690025984/) - 07/07/21
-    - [Threat Detective](https://github.com/ThreatDetectives) (my final Code Fellow's project) was chosen to represent my school in this year's Global Job Fair! 
-
-  - [Pride Summit 2021](https://lesbianswhotech.org/pridesummit2021/) - 06/21-06/25/21
-    - Enhance your leadership skills and techincal skills while preparing for the work ahead needed to fix our democracy, systemic racism, policy brutality, a global pandemic, our climate and so much more. Hosted by Lesbians Who Tech.
-
-  - [Microsoft Build](https://mybuild.microsoft.com/home) - 05/25-05/27/21
-    - Explore solutions, sharpen skills, and add to your toolbox at this year’s event. Find out what’s next in tech and the future of hybrid work at this free, all-digital event held by Microsoft. 
-
-  - [Elevate](https://girlgeek.io/conferences/elevate2021/) - 03/08/21
-    - The 4th annual Girl Geek X: Elevate virtual conference for mid-to-senior level women is a full day of talks on leadership, resilience, inclusive research, modernizing mobile codebases, strategies for remote teams, security, AI, and more!
-
-  - [PyCascades](https://2021.pycascades.com/) - 02/20/21
-    - PyCascades is organized by members of the Python communities in Vancouver, Seattle, and Portland. It is a 2 day virtual conference that aims to bring together Python users and developers from around the world.
 
 ---------------------
 
@@ -147,9 +93,6 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
   - [Bad Girls Do It Well](https://open.spotify.com/playlist/0rst8pDrV7wTC7iZg01G2j?si=TEOv8awtTn66bPXcy_LWtA)
   - [Acoustic Rock](https://open.spotify.com/playlist/37i9dQZF1DX0rCrO4CFRfM?si=Fi5-1AocQFiaBFmYmuXQhA)
   - [Rage](https://open.spotify.com/playlist/2OhZAN0BXwZYPREgaVVm6k?si=xSHyyD2HTwmBT40ha4cdoQ)
-
-<!-- --------------------- -->
-<!-- <h3>👭 What I'm Contributing To</h3> -->
 
 ---------------------
 <h3>👽 Fun Facts</h3>
