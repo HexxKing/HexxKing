@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=hexxking" width="110px">
+<img src="https://komarev.com/ghpvc/?username=hexxking" width="150px">
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif" height="100">
+<img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif" height="120">
 </p>
 
 ---------------------
@@ -31,8 +31,6 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
 ---------------------
 <h3>🐍 My Developer Identity</h3>
 
-### I studied **Full Stack Development** at Code Fellows but I have really found true love in **Data Science** and **Machine Learning**.  I am attracted to the suggestions and facts that can be scientifically deduced from data. Gathering, manipulating and learning from data was part of my previous career and felt like a natural avenue in software development.
-
   - ### 🛠️ **Technologies and Tools**
 
     - **OS** : macOS Catalina, Microsoft Windows
@@ -40,8 +38,6 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
     - **Languages** : Python, SQL, JavaScript(ES6), jQuery, CSS, HTML, Markdown
     - **Frameworks/Layouts/Templates** : Django (REST), PyTest, EJS, Express.js, SMACSS (Scalable and Modular Architecture for CSS), CSS Flexbox & Grid
     - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Selenium with Python, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, Chrome DevTools, Regex, npm, Node.js, Chart.js
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexxKing&layout=compact&theme=midnight-purple&card_width=800&langs_count=10)](https://github.com/HexxKing/github-readme-stats)
 
   - ### 🌟 **Professional Competencies**
     - A Growth Mindset:
@@ -72,12 +68,6 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
     - [Code Newbie](https://www.codenewbie.org/)
     - [PuPPy](https://www.pspython.com/app/)
     - [Tech Ladies](https://www.hiretechladies.com/)
-
----------------------
-
-<a href="https://github.com/HexxKing/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HexxKing&show_icons=true&theme=midnight-purple" />
-</a>
 
 ---------------------
 
@@ -117,6 +107,6 @@ Now, I am focusing on strengthening my problem-solving skills, practicing data s
 - Social media favicons from <a href="https://icons8.com">Icons8</a>
 - <a href="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7">Build a Stunning README For Your GitHub Profile</a>
 - <a href="https://sarah-hart-landolt.medium.com/6-easy-steps-to-create-a-beautiful-github-profile-readme-edc7840b2c7">6 Easy Steps to Create a Beautiful GitHub Profile README</a>
-- <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-profile">Setting up and managing your GitHub profile
-</a>
+- <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-profile">Setting up and managing your GitHub profile</a>
+- <a href="https://github.com/antonkomarev/github-profile-views-counter">GitHub Profile Views Counter</a>
 </footer>
