@@ -5,7 +5,7 @@
 <p align="center">
 <!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
 <a href="https://www.linkedin.com/in/hexx-king/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="images/my-resume.png" target="_blank" rel="noopener noreferrer"><img height="45" src="./images/resume.png"></a>&nbsp;&nbsp;
+<a href="images/my-resume.png" target="_blank" rel="noopener noreferrer"><img height="50" src="./images/resume.png"></a>&nbsp;&nbsp;
 <!-- <a href="https://www.facebook.com/hexxking13/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/facebook.png"></a>&nbsp;&nbsp; -->
 <a href="mailto:hexxking13@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
 <!-- <a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp; -->
@@ -26,51 +26,50 @@ In the wake of the COVID-19 pandemic, like many, I found myself pondering life's
 
 Encouraged by a developer friend, I enrolled in an intensive software development program. Nine months later, I proudly graduated from Code Fellows, armed with a plethora of new skills. In March 2021, I took my first steps into the technology industry as a teaching assistant and tutor at Code Fellows and then soon found myself promoted to Lead Instructor.
 
-Currently, my focus is on honing my problem-solving prowess, delving deeper into networking and cybersecurity, and pursuing CompTIA certifications. I'm committed to continuous learning and immersing myself in the technology landscape, all in pursuit of discovering my ideal role at my dream company.
+Currently, my focus is on honing my problem-solving prowess, delving deeper into networking and cybersecurity, and pursuing skill certifications. 
 
 Let's embark on this tech adventure together, shall we? 😄  
 
 ---------------------
-<h3>🐍 My Developer Identity</h3>
+### 🛠️ Technologies and Tools
 
-  - ### 🛠️ **Technologies and Tools**
+  - **Languages:** Bash, Python, JavaScript, SQL, CSS, HTML, Markdown
+  - **Frameworks:** React, Bootstrap, SciKit-Learn, NLTK, Pandas, Numpy, Django, Node.js, PyTest, jQuery
+  - **Tools:** Visual Studio Code, Jupyter Notebooks, Wireshark, Nmap, Cisco Packet Tracer, RADIUS, OpenVPN, Powershell, Git, CLI, Docker, GitHub, Postman
+  - **Operating Systems:** MacOS, Windows OS, Windows Server, Ubuntu OS, Ubuntu Server, Kali Linux, pfSense
+  - **Platforms:** AWS, Windows Active Directory, Heroku
+  - **Databases:** MongoDB, PostgreSQL
 
-    - **Languages:** Bash, Python, JavaScript, SQL, CSS, HTML, Markdown
-    - **Frameworks:** React, Bootstrap, SciKit-Learn, NLTK, Pandas, Numpy, Django, Node.js, PyTest, jQuery
-    - **Tools:** Visual Studio Code, Jupyter Notebooks, Wireshark, Nmap, Cisco Packet Tracer, RADIUS, OpenVPN, Powershell, Git, CLI, Docker, GitHub, Postman
-    - **Operating Systems:** MacOS, Windows OS, Windows Server, Ubuntu OS, Ubuntu Server, Kali Linux, pfSense
-    - **Platforms:** AWS, Windows Active Directory, Heroku
-    - **Databases:** MongoDB, PostgreSQL
+### 🌟 Professional Competencies
 
-  - ### 🌟 **Professional Competencies**
-    - A Growth Mindset:
-      - Ability to deal with ambiguous situations and solve problems with agility
-      - Envision beyond the responsibility of my role
-      - Build a career across multiple disciplines
-      - Attend every opportunity to learn and grow as a professional and a better human 
+  - **A Growth Mindset:**
+    - Ability to deal with ambiguous situations and solve problems with agility
+    - Envision beyond the responsibility of my role
+    - Build a career across multiple disciplines
+    - Attend every opportunity to learn and grow as a professional and a better human 
 
-    - Diverse and Inclusive:
-      - Empower every person to achieve more
-      - Influencing others by encouraging communication
-      - Lifting up "Non-Traditional Backgrounds"
-      - Create a safe working environment for everyone
-      - Community outreach through volunteering
+  - **Diverse and Inclusive:**
+    - Empower every person to achieve more
+    - Influencing others by encouraging communication
+    - Lifting up "Non-Traditional Backgrounds"
+    - Create a safe working environment for everyone
+    - Community outreach through volunteering
 
-    - Leadership & Collaboration:
-      - Effectively communicating within a team and across teams
-      - Positively influencing others by setting a good example 
-      - Working tenaciously to deliver on commitments
-      - Constantly seeking bigger challenges
-      - Holding yourself and others accountable
+  - **Leadership & Collaboration:**
+    - Effectively communicating within a team and across teams
+    - Positively influencing others by setting a good example 
+    - Working tenaciously to deliver on commitments
+    - Constantly seeking bigger challenges
+    - Holding yourself and others accountable
 
-  - ### 👭 **My Favorite Organizations**
-    - [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
-    - [Lesbians Who Tech](https://lesbianswhotech.org/about/)
-    - [Out in Tech](https://outintech.com/)
-    - [PyLadies](https://pyladies.com/)
-    - [Code Newbie](https://www.codenewbie.org/)
-    - [PuPPy](https://www.pspython.com/app/)
-    - [Tech Ladies](https://www.hiretechladies.com/)
+### 👭 **My Favorite Organizations**
+  - [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
+  - [Lesbians Who Tech](https://lesbianswhotech.org/about/)
+  - [Out in Tech](https://outintech.com/)
+  - [PyLadies](https://pyladies.com/)
+  - [Code Newbie](https://www.codenewbie.org/)
+  - [PuPPy](https://www.pspython.com/app/)
+  - [Tech Ladies](https://www.hiretechladies.com/)
 
 ---------------------
 
