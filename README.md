@@ -110,7 +110,13 @@ Let's embark on this tech adventure together, shall we? 😄
   - Enjoys All Venues of Self-Improvement
   - Wants to Build an EarthShip One Day
 
----------------------
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/AXitPK2Jhpd6JHNunt/giphy.gif" height="150">
+</p>
+
+---
 
 <footer>
 <h3>📚 Resources Used to Build This Repo:</h3>
