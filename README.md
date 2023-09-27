@@ -72,6 +72,11 @@ Let's embark on this tech adventure together, shall we? 😄
     - Constantly seeking bigger challenges
     - Holding yourself and others accountable
 
+---------------------
+
+![RGB banner here](./images/rbg.png)
+
+---------------------
 
 ## 👭 **My Favorite Organizations**
   - [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
@@ -84,7 +89,7 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---------------------
 
-![RGB banner here](./images/rbg.png)
+![gif here](https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif)
 
 ---------------------
 
@@ -97,7 +102,12 @@ Let's embark on this tech adventure together, shall we? 😄
   - [Acoustic Rock](https://open.spotify.com/playlist/37i9dQZF1DX0rCrO4CFRfM?si=Fi5-1AocQFiaBFmYmuXQhA)
   - [Rage](https://open.spotify.com/playlist/2OhZAN0BXwZYPREgaVVm6k?si=xSHyyD2HTwmBT40ha4cdoQ)
 
----------------------
+---
+
+![banner here](images/scripting_aint_easy.png)
+
+---
+
 <h2>👽 Fun Facts</h2>
 
   - Great Dane Mom
