@@ -22,11 +22,13 @@
 ---------------------
 <h3>🧑‍💻 How I Became a Developer</h3>
 
-Like many others, COVID-19 gave me lots to think about. In March 2020, we were asked to leave our jobs and stay home for an undetermined amount of time because it was too dangerous to be around other humans. I decided that this was my chance to make a huge change. There was no room for excuses because I had all the time in the world and nowhere to be. 
+In the wake of the COVID-19 pandemic, like many, I found myself pondering life's possibilities. In March 2020, as we were asked to step away from our jobs and stay home due to safety concerns, I recognized a unique opportunity for a career change. With time at my disposal and no immediate commitments, I embarked on a long journey of coding.
 
-A developer friend convinced me to attend an accelerated software development program and 9 months later, I graduated from Code Fellows with countless new skills. A year later in March 2021, I started working my first job in the technology industry as a teaching assistant and tutor at Code Fellows. 
+Encouraged by a developer friend, I enrolled in an intensive software development program. Nine months later, I proudly graduated from Code Fellows, armed with a plethora of new skills. In March 2021, I took my first steps into the technology industry as a teaching assistant and tutor at Code Fellows and then soon found myself promoted to Lead Instructor.
 
-Now, I am focusing on strengthening my problem-solving skills, practicing data structures and algorithms and learning more about data science and machine learning. I am continuing to learn as much as I can about the technology industry in an effort to find my forever role at my dream company.  
+Currently, my focus is on honing my problem-solving prowess, delving deeper into networking and cybersecurity, and pursuing CompTIA certifications. I'm committed to continuous learning and immersing myself in the technology landscape, all in pursuit of discovering my ideal role at my dream company.
+
+Let's embark on this tech adventure together, shall we? 😄  
 
 ---------------------
 <h3>🐍 My Developer Identity</h3>
