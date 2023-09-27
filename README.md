@@ -14,10 +14,6 @@
 <img src="https://komarev.com/ghpvc/?username=hexxking" width="130px">
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif" height="150">
-</p>
-
 ---------------------
 <h2>🧑‍💻 How I Became a Developer</h2>
 
@@ -29,7 +25,13 @@ Currently, my focus is on honing my problem-solving prowess, delving deeper into
 
 Let's embark on this tech adventure together, shall we? 😄  
 
----------------------
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif" height="175">
+</p>
+
+---
 
 ## 🛠️ Technologies and Tools
 
@@ -98,6 +100,8 @@ Let's embark on this tech adventure together, shall we? 😄
 ---------------------
 <h2>👽 Fun Facts</h2>
 
+  - Great Dane Mom
+  - Building a Food Forest in Backyard
   - Retired Disney Princess
   - Studied 14 Different Styles of Dance over 18 Years
   - Took Up Longboarding at 25 and Roller Skating at 30 Years Old
@@ -105,7 +109,7 @@ Let's embark on this tech adventure together, shall we? 😄
   - Performed Burlesque with a Troupe of Drag Kings
   - Collected over 1,000 Hours of Tattoo Artwork and Body Modifications
   - Studied the Spanish Language and Mexican Culture for 6 Years
-  - Tarot Reader for 6 Years
+  - Tarot Reader for 9 Years
   - Enjoys All Venues of Self-Improvement
   - Wants to Build an EarthShip One Day
 
