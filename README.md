@@ -41,6 +41,14 @@ Let's embark on this tech adventure together, shall we? 😄
   - **Platforms:** AWS, Windows Active Directory, Heroku
   - **Databases:** MongoDB, PostgreSQL
 
+---
+
+<p align="center">
+<img src="images/christopher_robin.png">
+</p>
+
+---
+
 ## 🌟 Professional Competencies
 
   - **A Growth Mindset:**
@@ -62,6 +70,7 @@ Let's embark on this tech adventure together, shall we? 😄
     - Working tenaciously to deliver on commitments
     - Constantly seeking bigger challenges
     - Holding yourself and others accountable
+
 
 ## 👭 **My Favorite Organizations**
   - [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
