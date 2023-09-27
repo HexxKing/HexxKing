@@ -20,7 +20,7 @@
 </p>
 
 ---------------------
-<h3>🧑‍💻 How I Became a Developer</h3>
+<h2>🧑‍💻 How I Became a Developer</h2>
 
 In the wake of the COVID-19 pandemic, like many, I found myself pondering life's possibilities. In March 2020, as we were asked to step away from our jobs and stay home due to safety concerns, I recognized a unique opportunity for a career change. With time at my disposal and no immediate commitments, I embarked on a long journey of coding.
 
@@ -31,7 +31,8 @@ Currently, my focus is on honing my problem-solving prowess, delving deeper into
 Let's embark on this tech adventure together, shall we? 😄  
 
 ---------------------
-### 🛠️ Technologies and Tools
+
+## 🛠️ Technologies and Tools
 
   - **Languages:** Bash, Python, JavaScript, SQL, CSS, HTML, Markdown
   - **Frameworks:** React, Bootstrap, SciKit-Learn, NLTK, Pandas, Numpy, Django, Node.js, PyTest, jQuery
@@ -40,7 +41,7 @@ Let's embark on this tech adventure together, shall we? 😄
   - **Platforms:** AWS, Windows Active Directory, Heroku
   - **Databases:** MongoDB, PostgreSQL
 
-### 🌟 Professional Competencies
+## 🌟 Professional Competencies
 
   - **A Growth Mindset:**
     - Ability to deal with ambiguous situations and solve problems with agility
@@ -62,7 +63,7 @@ Let's embark on this tech adventure together, shall we? 😄
     - Constantly seeking bigger challenges
     - Holding yourself and others accountable
 
-### 👭 **My Favorite Organizations**
+## 👭 **My Favorite Organizations**
   - [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
   - [Lesbians Who Tech](https://lesbianswhotech.org/about/)
   - [Out in Tech](https://outintech.com/)
@@ -77,7 +78,7 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---------------------
 
-<h3>📻 My Favorite Coding Playlists</h3>
+<h2>📻 My Favorite Coding Playlists</h2>
 
   - [Pop Goes Classical](https://open.spotify.com/playlist/37i9dQZF1DWUPafHP1BJw1?si=9JTN8J_bS0iVzTT0GeULzA)
   - [Dark Wave](https://open.spotify.com/playlist/2B38PQb9QByEVSyKcuFLyh?si=Jhk4YMk-ShS_z_N_QFj3uA)
@@ -87,7 +88,7 @@ Let's embark on this tech adventure together, shall we? 😄
   - [Rage](https://open.spotify.com/playlist/2OhZAN0BXwZYPREgaVVm6k?si=xSHyyD2HTwmBT40ha4cdoQ)
 
 ---------------------
-<h3>👽 Fun Facts</h3>
+<h2>👽 Fun Facts</h2>
 
   - Retired Disney Princess
   - Studied 14 Different Styles of Dance over 18 Years
