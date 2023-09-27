@@ -118,7 +118,7 @@ Let's embark on this tech adventure together, shall we? 😄
 <p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/AXitPK2Jhpd6JHNunt/giphy.gif" height="150">
+<img src="https://media.giphy.com/media/AXitPK2Jhpd6JHNunt/giphy.gif" height="175">
 </p>
 
 ---
