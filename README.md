@@ -89,7 +89,9 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---------------------
 
-![gif here](https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" height="175">
+</p>
 
 ---------------------
 
@@ -111,7 +113,7 @@ Let's embark on this tech adventure together, shall we? 😄
 <h2>👽 Fun Facts</h2>
 
   - Great Dane Mom
-  - Building a Food Forest in Backyard
+  - Building a Food Forest in My Backyard
   - Retired Disney Princess
   - Studied 14 Different Styles of Dance over 18 Years
   - Took Up Longboarding at 25 and Roller Skating at 30 Years Old
