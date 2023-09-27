@@ -5,7 +5,6 @@
 <p align="center">
 <!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
 <a href="https://www.linkedin.com/in/hexx-king/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="images/my-resume.png" target="_blank" rel="noopener noreferrer"><img height="50" src="./images/resume.png"></a>&nbsp;&nbsp;
 <!-- <a href="https://www.facebook.com/hexxking13/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/facebook.png"></a>&nbsp;&nbsp; -->
 <a href="mailto:hexxking13@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
 <!-- <a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp; -->
@@ -112,7 +111,11 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---
 
+<h3 align="center">Don't forget to check out my resume!</h3>
+
 <p align="center">
+<a href="images/my-resume.png" target="_blank" rel="noopener noreferrer"><img height="50" src="./images/resume.png"></a>&nbsp;&nbsp;
+
 <img src="https://media.giphy.com/media/AXitPK2Jhpd6JHNunt/giphy.gif" height="150">
 </p>
 
