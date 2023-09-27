@@ -35,11 +35,12 @@ Let's embark on this tech adventure together, shall we? 😄
 
   - ### 🛠️ **Technologies and Tools**
 
-    - **OS** : macOS Catalina, Microsoft Windows
-    - **Editor** : Visual Studio Code, Jupyter Notebook
-    - **Languages** : Python, SQL, JavaScript(ES6), jQuery, CSS, HTML, Markdown
-    - **Frameworks/Layouts/Templates** : Django (REST), PyTest, EJS, Express.js, SMACSS (Scalable and Modular Architecture for CSS), CSS Flexbox & Grid
-    - **Libraries/Tools** : React, Whitenoise, JSON Web Tokens, Docker, Selenium with Python, Beautiful Soup, seaborn, matplotlib, scikit-learn, NumPy, Pandas, Pip, Poetry, Heroku, Git, Chrome DevTools, Regex, npm, Node.js, Chart.js
+    - **Languages:** Bash, Python, JavaScript, SQL, CSS, HTML, Markdown
+    - **Frameworks:** React, Bootstrap, SciKit-Learn, NLTK, Pandas, Numpy, Django, Node.js, PyTest, jQuery
+    - **Tools:** Visual Studio Code, Jupyter Notebooks, Wireshark, Nmap, Cisco Packet Tracer, RADIUS, OpenVPN, Powershell, Git, CLI, Docker, GitHub, Postman
+    - **Operating Systems:** MacOS, Windows OS, Windows Server, Ubuntu OS, Ubuntu Server, Kali Linux, pfSense
+    - **Platforms:** AWS, Windows Active Directory, Heroku
+    - **Databases:** MongoDB, PostgreSQL
 
   - ### 🌟 **Professional Competencies**
     - A Growth Mindset:
