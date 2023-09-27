@@ -115,7 +115,9 @@ Let's embark on this tech adventure together, shall we? 😄
 
 <p align="center">
 <a href="images/my-resume.png" target="_blank" rel="noopener noreferrer"><img height="50" src="./images/resume.png"></a>&nbsp;&nbsp;
+<p>
 
+<p align="center">
 <img src="https://media.giphy.com/media/AXitPK2Jhpd6JHNunt/giphy.gif" height="150">
 </p>
 
