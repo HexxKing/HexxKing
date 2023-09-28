@@ -110,12 +110,14 @@ Let's embark on this tech adventure together, shall we? 😄
 
 <h2>🎮 Currently Gaming</h2>
 
+<p align="center">
+
 - [Legend of Zelda - Tears of the Kingdom](https://www.youtube.com/watch?v=uHGShqcAHlQ&ab_channel=NintendoofAmerica)
 - [Disney Dreamlight Valley](https://www.youtube.com/watch?v=TGjusKg-efs&t=1s&ab_channel=DisneyDreamlightValley)
 - [Mario Kart 8 Deluxe](https://www.youtube.com/watch?v=BiJ7IoeuhXE&ab_channel=NintendoofAmerica)
 
-<p align="center">
-<img src="images/zelda.gif" height="175">
+<img src="images/zelda.gif" height="175" margin-left="50%">
+
 </p>
 
 ---
