@@ -108,14 +108,13 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---
 
-<h2>🎮 What I am Currently Gaming</h2>
+<h2>🎮 Currently Gaming</h2>
 
-<p>
+- [Legend of Zelda - Tears of the Kingdom](https://www.youtube.com/watch?v=uHGShqcAHlQ&ab_channel=NintendoofAmerica)
+- [Disney Dreamlight Valley](https://www.youtube.com/watch?v=TGjusKg-efs&t=1s&ab_channel=DisneyDreamlightValley)
+- [Mario Kart 8 Deluxe](https://www.youtube.com/watch?v=BiJ7IoeuhXE&ab_channel=NintendoofAmerica)
 
-[![YouTube video player](https://www.youtube.com/embed/uHGShqcAHlQ?si=UcSE5-vnQfA11i8n)](https://www.youtube.com/embed/uHGShqcAHlQ?si=UcSE5-vnQfA11i8n)
-
-<!-- <iframe width="560" height="315" src="" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
-</p>
+![Zelda Gif](https://gifs.alphacoders.com/gifs/view/219152)
 
 ---
 
