@@ -89,18 +89,23 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---------------------
 
-<p align="center">
-<img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" height="175">
-</p>
-
----------------------
-
 <h2>📻 My Favorite Coding Playlists</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="right">
+      <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" height="185">
+    </td>
+    <td width="50%">
 
   - [Zelda Lofi & Chill](https://open.spotify.com/playlist/0NCU27543csVHq1A8FdPYy?si=ddf9745ccd6b47ac)
   - [Pop Goes Classical](https://open.spotify.com/playlist/37i9dQZF1DWUPafHP1BJw1?si=9JTN8J_bS0iVzTT0GeULzA)
   - [Brain Power](https://open.spotify.com/playlist/7KxpNGzqnlzXdQxrgF7aBV?si=mmOXpl3zShuvYp-GWeKaRQ)
   - [Acoustic Rock](https://open.spotify.com/playlist/37i9dQZF1DX0rCrO4CFRfM?si=Fi5-1AocQFiaBFmYmuXQhA)
+
+    </td>
+  </tr>
+</table>
 
 ---
 
