@@ -114,7 +114,7 @@ Let's embark on this tech adventure together, shall we? 😄
 - [Disney Dreamlight Valley](https://www.youtube.com/watch?v=TGjusKg-efs&t=1s&ab_channel=DisneyDreamlightValley)
 - [Mario Kart 8 Deluxe](https://www.youtube.com/watch?v=BiJ7IoeuhXE&ab_channel=NintendoofAmerica)
 
-![Zelda Gif](https://gifs.alphacoders.com/gifs/view/219152)
+![Zelda Gif](images/zelda.gif)
 
 ---
 
