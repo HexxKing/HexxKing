@@ -110,9 +110,9 @@ Let's embark on this tech adventure together, shall we? 😄
 
 <h2>🎮 What I am Currently Gaming</h2>
 
-```html
+<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uHGShqcAHlQ?si=UcSE5-vnQfA11i8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-```
+</p>
 
 ---
 
