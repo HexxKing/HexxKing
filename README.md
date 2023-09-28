@@ -97,16 +97,20 @@ Let's embark on this tech adventure together, shall we? 😄
 
 <h2>📻 My Favorite Coding Playlists</h2>
 
+  - [Zelda Lofi & Chill](https://open.spotify.com/playlist/0NCU27543csVHq1A8FdPYy?si=ddf9745ccd6b47ac)
   - [Pop Goes Classical](https://open.spotify.com/playlist/37i9dQZF1DWUPafHP1BJw1?si=9JTN8J_bS0iVzTT0GeULzA)
-  - [Dark Wave](https://open.spotify.com/playlist/2B38PQb9QByEVSyKcuFLyh?si=Jhk4YMk-ShS_z_N_QFj3uA)
   - [Brain Power](https://open.spotify.com/playlist/7KxpNGzqnlzXdQxrgF7aBV?si=mmOXpl3zShuvYp-GWeKaRQ)
-  - [Bad Girls Do It Well](https://open.spotify.com/playlist/0rst8pDrV7wTC7iZg01G2j?si=TEOv8awtTn66bPXcy_LWtA)
   - [Acoustic Rock](https://open.spotify.com/playlist/37i9dQZF1DX0rCrO4CFRfM?si=Fi5-1AocQFiaBFmYmuXQhA)
-  - [Rage](https://open.spotify.com/playlist/2OhZAN0BXwZYPREgaVVm6k?si=xSHyyD2HTwmBT40ha4cdoQ)
 
 ---
 
 ![banner here](images/isms.png)
+
+---
+
+<h2>🎮 What I am Currently Gaming</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uHGShqcAHlQ?si=UcSE5-vnQfA11i8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
