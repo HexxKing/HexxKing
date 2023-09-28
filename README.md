@@ -111,7 +111,10 @@ Let's embark on this tech adventure together, shall we? 😄
 <h2>🎮 What I am Currently Gaming</h2>
 
 <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uHGShqcAHlQ?si=UcSE5-vnQfA11i8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[![YouTube video player](https://www.youtube.com/embed/uHGShqcAHlQ?si=UcSE5-vnQfA11i8n)](https://www.youtube.com/embed/uHGShqcAHlQ?si=UcSE5-vnQfA11i8n)
+
+<!-- <iframe width="560" height="315" src="" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 </p>
 
 ---
