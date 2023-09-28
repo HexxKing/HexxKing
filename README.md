@@ -106,7 +106,7 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---
 
-![banner here](images/scripting_aint_easy.png)
+![banner here](images/isms.png)
 
 ---
 
