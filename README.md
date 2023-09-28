@@ -110,7 +110,7 @@ Let's embark on this tech adventure together, shall we? 😄
 
 <h2>🎮 Currently Gaming</h2>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%">
 
