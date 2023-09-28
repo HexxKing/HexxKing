@@ -110,18 +110,20 @@ Let's embark on this tech adventure together, shall we? 😄
 
 <h2>🎮 Currently Gaming</h2>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<table>
+  <tr>
+    <td width="50%">
 
 - [Legend of Zelda - Tears of the Kingdom](https://www.youtube.com/watch?v=uHGShqcAHlQ&ab_channel=NintendoofAmerica)
 - [Disney Dreamlight Valley](https://www.youtube.com/watch?v=TGjusKg-efs&t=1s&ab_channel=DisneyDreamlightValley)
 - [Mario Kart 8 Deluxe](https://www.youtube.com/watch?v=BiJ7IoeuhXE&ab_channel=NintendoofAmerica)
 
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="images/zelda.gif" height="150">
-  </div>
-</div>
+</td>
+    <td width="50%" align="right">
+      <img src="images/zelda.gif" height="150">
+    </td>
+  </tr>
+</table>
 
 ---
 
