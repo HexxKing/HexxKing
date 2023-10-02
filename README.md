@@ -87,6 +87,8 @@ Let's embark on this tech adventure together, shall we? 😄
   - [PuPPy](https://www.pspython.com/app/)
   - [Tech Ladies](https://www.hiretechladies.com/)
 
+
+
 ---------------------
 
 <h2>📻 My Favorite Coding Playlists</h2>
