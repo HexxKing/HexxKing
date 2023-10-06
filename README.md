@@ -32,9 +32,9 @@ Let's embark on this tech adventure together, shall we? 😄
 </p>
 
 <p align="center">
-<img src="./images/Code_301_Certificate of Instruction.png" height="200">
-<img src="./images/Ops_201_Certificate_of_Instruction.png" height="200">
-<img src="./images/Ops_301_Certificate_of_Instruction.png" height="200">
+<img src="./images/Code_301_Certificate of Instruction.png" height="225">
+<img src="./images/Ops_201_Certificate_of_Instruction.png" height="225">
+<img src="./images/Ops_301_Certificate_of_Instruction.png" height="225">
 </p>
 
 ---
