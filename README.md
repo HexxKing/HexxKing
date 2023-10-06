@@ -31,6 +31,12 @@ Let's embark on this tech adventure together, shall we? 😄
 <img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif" height="175">
 </p>
 
+<p align="center">
+<img src="images/Code_301_Certificate_of_Instruction.pdf" height="33">
+<img src="images/Ops_201_Certificate_of_Instruction.pdf" height="33">
+<img src="images/Ops_301_Certificate_of_Instruction.pdf" height="33">
+</p>
+
 ---
 
 ## 🛠️ Technologies and Tools
@@ -86,8 +92,6 @@ Let's embark on this tech adventure together, shall we? 😄
   - [Code Newbie](https://www.codenewbie.org/)
   - [PuPPy](https://www.pspython.com/app/)
   - [Tech Ladies](https://www.hiretechladies.com/)
-
-
 
 ---------------------
 
