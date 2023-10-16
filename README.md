@@ -155,7 +155,7 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---
 
-<!-- <h3 align="center">Don't forget to check out my resume!</h3>
+<h3 align="center">Don't forget to check out my resume!</h3>
 
 <p align="center">
 <a href="images/my-resume.png" target="_blank" rel="noopener noreferrer"><img height="50" src="./images/resume.png"></a>&nbsp;&nbsp;
@@ -165,7 +165,7 @@ Let's embark on this tech adventure together, shall we? 😄
 <img src="https://media.giphy.com/media/AXitPK2Jhpd6JHNunt/giphy.gif" height="175">
 </p>
 
---- -->
+--- 
 
 <footer>
 <h3>📚 Resources Used to Build This Repo:</h3>
