@@ -15,7 +15,7 @@
 </p>
 
 ---------------------
-<h2>🧑‍💻 How I Became a Developer</h2>
+<h2 align="center">🧑‍💻 How I Became a Developer</h2>
 
 In the wake of the COVID-19 pandemic, like many, I found myself pondering life's possibilities. In March 2020, as we were asked to step away from our jobs and stay home due to safety concerns, I recognized a unique opportunity for a career change. With time at my disposal and no immediate commitments, I embarked on a long journey of coding.
 
@@ -39,7 +39,7 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---
 
-## 🛠️ Technologies and Tools
+<h2 align="center">🛠️ Technologies and Tools</h2>
 
   - **Languages:** Bash, Python, JavaScript, SQL, CSS, HTML, Markdown
   - **Frameworks:** React, Bootstrap, SciKit-Learn, NLTK, Pandas, Numpy, Django, Node.js, PyTest, jQuery
@@ -56,7 +56,7 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---
 
-## 🌟 Professional Competencies
+<h2 align="center">🌟 Professional Competencies</h2>
 
   - **A Growth Mindset:**
     - Ability to deal with ambiguous situations and solve problems with agility
@@ -84,18 +84,19 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---------------------
 
-## 👭 **My Favorite Organizations**
-  - [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
-  - [Lesbians Who Tech](https://lesbianswhotech.org/about/)
-  - [Out in Tech](https://outintech.com/)
-  - [PyLadies](https://pyladies.com/)
-  - [Code Newbie](https://www.codenewbie.org/)
-  - [PuPPy](https://www.pspython.com/app/)
-  - [Tech Ladies](https://www.hiretechladies.com/)
+<h2 align="center">👭 My Favorite Organizations<h2>
+
+- [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
+- [Lesbians Who Tech](https://lesbianswhotech.org/about/)
+- [Out in Tech](https://outintech.com/)
+- [PyLadies](https://pyladies.com/)
+- [Code Newbie](https://www.codenewbie.org/)
+- [PuPPy](https://www.pspython.com/app/)
+- [Tech Ladies](https://www.hiretechladies.com/)
 
 ---------------------
 
-<h2>📻 My Favorite Coding Playlists</h2>
+<h2 align="center">📻 My Favorite Coding Playlists</h2>
 
 <table align="center">
   <tr>
@@ -119,7 +120,7 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---
 
-<h2>🎮 Currently Gaming</h2>
+<h2 align="center">🎮 Currently Gaming</h2>
 
 <table align="center">
   <tr>
@@ -138,7 +139,7 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---
 
-<h2>👽 Fun Facts</h2>
+<h2 align="center">👽 Fun Facts</h2>
 
   - Great Dane Mom
   - Building a Food Forest in My Backyard
@@ -155,7 +156,7 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---
 
-<h3 align="center">Don't forget to check out my resume and recommendations on LinkedIn!</h3>
+<h2 align="center">Don't forget to check out my resume and recommendations on LinkedIn!</h2>
 
 <p align="center">
 <a href="images/my-resume.pdf" target="_blank" rel="noopener noreferrer"><img height="50" src="./images/resume.png"></a>&nbsp;&nbsp;
@@ -170,7 +171,7 @@ Let's embark on this tech adventure together, shall we? 😄
 --- 
 
 <footer>
-<h3>📚 Resources Used to Build This Repo:</h3>
+<h3 align="center">📚 Resources Used to Build This Repo:</h3>
 
 - Header from <a href="https://www.canva.com/">Canva</a>
 - Social media favicons from <a href="https://icons8.com">Icons8</a>
