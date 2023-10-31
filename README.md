@@ -155,15 +155,17 @@ Let's embark on this tech adventure together, shall we? 😄
 
 ---
 
-<h3 align="center">Don't forget to check out my resume!</h3>
+<h3 align="center">Don't forget to check out my resume and recommendations on LinkedIn!</h3>
 
 <p align="center">
 <a href="images/my-resume.pdf" target="_blank" rel="noopener noreferrer"><img height="50" src="./images/resume.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hexx-king/details/recommendations/?detailScreenTabIndex=0" target="_blank" rel="noopener noreferrer"><img height="50" src="./images/linkedin.png"></a>&nbsp;&nbsp;
 <p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/AXitPK2Jhpd6JHNunt/giphy.gif" height="175">
 </p>
+
 
 --- 
 
