@@ -149,8 +149,7 @@ Let's embark on this tech adventure together, shall we? 😄
   - Collects Carnivorous Plants
   - Performed Burlesque with a Troupe of Drag Kings
   - Collected over 1,000 Hours of Tattoo Artwork and Body Modifications
-  - Studied the Spanish Language and Mexican Culture for 6 Years
-  - Tarot Reader for 9 Years
+  - Tarot Reader for 10 Years
   - Enjoys All Venues of Self-Improvement
   - Wants to Build an EarthShip One Day
 
