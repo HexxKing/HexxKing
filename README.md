@@ -158,7 +158,7 @@ Let's embark on this tech adventure together, shall we? 😄
 <h3 align="center">Don't forget to check out my resume!</h3>
 
 <p align="center">
-<a href="images/my-resume.png" target="_blank" rel="noopener noreferrer"><img height="50" src="./images/resume.png"></a>&nbsp;&nbsp;
+<a href="images/my-resume.pdf" target="_blank" rel="noopener noreferrer"><img height="50" src="./images/resume.png"></a>&nbsp;&nbsp;
 <p>
 
 <p align="center">
