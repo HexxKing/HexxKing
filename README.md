@@ -51,8 +51,11 @@ Let's embark on this tech adventure together, shall we? 😄
 ---
 
 <p align="center">
-<img src="images/christopher_robin.png">
+<img src="images/AI-avatar.jpeg">
 </p>
+
+If you haven't already, check out [Microsoft Designer](https://www.linkedin.com/company/microsoft-designer/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BT9WBcf5DRa2DgHL2s%2BT7mg%3D%3D) for lightning-fast design creation with generative AI! Thanks to [Yanira Sesniak, M.Ed.](https://www.linkedin.com/in/ysesniak/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BT9WBcf5DRa2DgHL2s%2BT7mg%3D%3D) for sharing and the inspiration. Try it for yourself using [this prompt](https://lnkd.in/gFcEDV7d) from [Michael Ameel](https://www.linkedin.com/in/michaelameel/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BT9WBcf5DRa2DgHL2s%2BT7mg%3D%3D).
+
 
 ---
 
