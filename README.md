@@ -19,11 +19,9 @@
 
 In the wake of the COVID-19 pandemic, like many, I found myself pondering life's possibilities. In March 2020, as we were asked to step away from our jobs and stay home due to safety concerns, I recognized a unique opportunity for a career change. With time at my disposal and no immediate commitments, I embarked on a long journey of coding.
 
-Encouraged by a developer friend, I enrolled in an intensive software development program. Nine months later, I proudly graduated from Code Fellows, armed with a plethora of new skills. In March 2021, I took my first steps into the technology industry as a teaching assistant and tutor at Code Fellows and then soon found myself promoted to Lead Instructor.
+Encouraged by a developer friend, I enrolled in an intensive software development program. Nine months later, I proudly graduated from Code Fellows, armed with a plethora of new skills. In March 2021, I took my first steps into the technology industry as a teaching assistant and tutor at Code Fellows and then soon found myself promoted to Lead Instructor and Lead Curriculum Developer.
 
-Currently, my focus is on honing my problem-solving prowess, delving deeper into networking and cybersecurity, and pursuing skill certifications. 
-
-Let's embark on this tech adventure together, shall we? 😄  
+I am currently pursuing an associate's degree in computer programming with plans to transition into a Bachelor's degree program for computer engineering, specializing in AI and robotics. 
 
 ---
 
